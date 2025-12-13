@@ -54,7 +54,7 @@ If the player has no territories, you can give them one from the Map Editor.
 
 Unlocks all items.
 
-## How To Use (Cheat)
+## How To Use :
 
 To use the **Twilight.dll** mod, you will need a DLL injector.  
 I recommend using [ProcessHacker](https://sourceforge.net/projects/processhacker/).
@@ -66,16 +66,6 @@ I recommend using [ProcessHacker](https://sourceforge.net/projects/processhacker
 5. Right-click **Risk.exe**, then choose:  
    **Miscellaneous → Inject DLL**
 6. Select **Twilight.dll**.
-
-## How To Use (Spoofer)
-
-Run RiskSpoofer.exe as Administrator
-
-Launch Risk while the spoofer window is open
-
-When you're done, press ENTER in the spoofer window to restore all original values
-
-✔️ Spoofer changes MachineGuid / ProductId / PC Name temporarily
 
 ## Note :
 
