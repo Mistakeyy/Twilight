@@ -1,4 +1,4 @@
-## Twilight Risk Global Domination Cheat with Spoofer
+## Twilight Risk Global Domination Cheat
 
 ### Feature List
 ## Match :
