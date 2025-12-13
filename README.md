@@ -91,6 +91,6 @@ HWID ban
 ## Press HOME to open the menu
 
  **Video Tutorial**  
-https://www.youtube.com/watch?v=3isMXNAYo9A
+https://www.youtube.com/watch?v=k-rFuekLxhA
 
  **Discord:** @c.wl
