@@ -59,7 +59,7 @@ Unlocks all items.
 To use the **Twilight.dll** mod, you will need a DLL injector.  
 I recommend using [ProcessHacker](https://sourceforge.net/projects/processhacker/).
 
-1. Download the latest version of [Twilight.dll](https://github.com/Mistakeyy/Twilight/releases/tag/v1.0)
+1. Download the latest version of [Twilight.dll](https://github.com/Mistakeyy/Twilight/releases)
 2. Start **RISK: Global Domination**.
 3. Open **ProcessHacker**.
 4. In ProcessHacker, search for **Risk.exe**.
