@@ -68,6 +68,7 @@ I recommend using [ProcessHacker](https://sourceforge.net/projects/processhacker
 5. Right-click **Risk.exe**, then choose:  
    **Miscellaneous → Inject DLL**
 6. Select **Twilight.dll**.
+7. ## Press HOME to open the menu
 
 ## Note :
 
@@ -89,8 +90,6 @@ HWID ban
 
  It is strongly recommended to use it on a secondary account
  and always use it with a spoofer.
-
-## Press HOME to open the menu
 
  **Video Tutorial**  
 https://www.youtube.com/watch?v=k-rFuekLxhA
