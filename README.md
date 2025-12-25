@@ -27,9 +27,6 @@ Enable / disable Blizzard
 
 ## Feature :
 
-Instant Win
-
-Instant win, but it has some issues right now — not recommended to use at the moment.
 
 Skip Turn
 
