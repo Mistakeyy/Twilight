@@ -2,16 +2,25 @@
 <img width="1920" height="1080" alt="RISK  Global Domination Screenshot 2025 12 25 - 16 59 39 99" src="https://github.com/user-attachments/assets/12f4f18f-0c57-42bb-9ecd-e7c4221929d8" />
 
 
-### Feature List
-## Match :
+# Feature List
+
+## Match
+
 FogOfWar
+* **Enable** → Enables fog for you.
+* **Disable** → Disables fog for you (Reveals the map).
 
-Enable → enables fog for you
+Add Troops
+* Modify and set troop counts for any player.
 
-Disable → disables fog for you
+Card Esp
+* **Show card player in game** → Allows you to see exactly what cards every player is holding in real-time.
 
 Edit Card
-Add Troops
+* Change the specific cards in a player's hand (e.g., swap Wilds/Infantry).
+
+Alliance System
+* **Alliance Viewer & Breaker** → Displays all active alliances between players and gives you the ability to force-break any alliance instantly.
 
 ## Map Editor :
 
