@@ -4,7 +4,7 @@
 
 # Feature List
 
-## Match
+## Match :
 
 FogOfWar
 * **Enable** → Enables fog for you.
@@ -22,7 +22,7 @@ Edit Card
 Alliance System
 * **Alliance Viewer & Breaker** → Displays all active alliances between players and gives you the ability to force-break any alliance instantly.
 
-## Map Editor
+## Map Editor :
 
 * **Territory List & Search** → Browse all territories or find specific ones instantly using the search bar.
 
@@ -34,7 +34,7 @@ Alliance System
 
 * **Blizzard Control** → Enable or disable the Blizzard effect on specific territories.
 
-## Feature
+## Feature :
 
 Game Flow Control
 
@@ -52,7 +52,7 @@ Player Management
 
 * **Revive Note** → If the revived player has no territories, you must give them one using the **Map Editor**.
 
-## Unlock All
+## Unlock All and Spoofer :
 
 Unlock All Items
 * Unlocks all in-game items
