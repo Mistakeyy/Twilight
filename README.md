@@ -22,45 +22,44 @@ Edit Card
 Alliance System
 * **Alliance Viewer & Breaker** → Displays all active alliances between players and gives you the ability to force-break any alliance instantly.
 
-## Map Editor :
+## Map Editor
 
-Territory list + search
+* **Territory List & Search** → Browse all territories or find specific ones instantly using the search bar.
 
-Give territory to any player
+* **Give Territory** → Assign ownership of any territory to any player (or make it neutral).
 
-Change territory troop count
+* **Change Troop Count** → Modify the number of units on any selected territory.
 
-Remove / add capital
+* **Capital Management** → Add or remove a Capital from a territory.
 
-Enable / disable Blizzard
+* **Blizzard Control** → Enable or disable the Blizzard effect on specific territories.
 
-## Feature :
+## Feature
 
+Game Flow Control
 
-Skip Turn
+* **Skip Turn** → Instantly skips the current player's turn to the next one (e.g., if it's Green's turn, it skips to the next).
 
-For example: if the turn is on the green player, it skips to the next player.
+* **Next Phase** → Forces the game to jump to the next phase immediately (e.g., from Attack directly to Fortify).
 
-Next Phase
+* **Skip To Player** → Select a specific player from the list and force the turn to jump directly to them.
 
-For example: if the game is in Attack, it skips directly to Fortify.
+Player Management
 
-Skip To Player
+* **Eliminate** → Forcefully eliminate any player; they can no longer play, but their territories remain on the map.
 
-Choose the player you want the turn to jump to.
+* **Revive** → Brings a defeated player back into the game.
 
-Eliminate
+* **Revive Note** → If the revived player has no territories, you must give them one using the **Map Editor**.
 
-Eliminate any player — they can no longer play, but their territories stay on the map.
+## Unlock All
 
-Revive
+Unlock All Items
+* Unlocks all in-game items
 
-Revive a player back to the game.
-If the player has no territories, you can give them one from the Map Editor.
+VIP Spoofer Flag
+* **Set Custom Flag** → Allows you to set any flag you want (e.g., Admin, Developer, VIP), and it will be visible to other players in the game.
 
-## Unlock All :
-
-Unlocks all items.
 
 ## How To Use :
 
