@@ -18,6 +18,11 @@ Card Esp
 
 Edit Card
 * Change the specific cards in a player's hand (e.g., swap Wilds/Infantry).
+Shortcuts:
+
+T4C → Trash 4 Cards
+
+B3C → Best 3 Cards
 
 Alliance System
 * **Alliance Viewer & Breaker** → Displays all active alliances between players and gives you the ability to force-break any alliance instantly.
