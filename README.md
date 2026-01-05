@@ -47,8 +47,6 @@ Game Flow Control
 
 * **Next Phase** → Forces the game to jump to the next phase immediately (e.g., from Attack directly to Fortify).
 
-* **Skip To Player** → Select a specific player from the list and force the turn to jump directly to them.
-
 Player Management
 
 * **Eliminate** → Forcefully eliminate any player; they can no longer play, but their territories remain on the map.
@@ -60,9 +58,9 @@ Player Management
 ## Unlock All and Spoofer :
 
 Unlock All Items
-* Unlocks all in-game items
+* Unlocks all
 
-VIP Spoofer Flag
+Badge Spoofer:
 * **Set Custom Flag** → Allows you to set any flag you want (e.g., Admin, Developer, VIP), and it will be visible to other players in the game.
 
 
@@ -83,10 +81,8 @@ I recommend using [ProcessHacker](https://sourceforge.net/projects/processhacker
 ## Note :
 
 Using these features repeatedly or too quickly:
-Skip To Player / Next Phase / Skip Turn / Eliminate / Revive
+Next Phase / Skip Turn / Eliminate / Revive
 may cause a crash, and they currently have some issues.
-
-Skip To Player has a built-in 400ms delay to reduce crash probability.
 
 I will try to fix these issues and add more features soon.
 
