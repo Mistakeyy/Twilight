@@ -66,16 +66,10 @@ Badge Spoofer:
 
 ## How To Use :
 
-To use the **Twilight.dll** mod, you will need a DLL injector.  
-I recommend using [ProcessHacker](https://sourceforge.net/projects/processhacker/).
-
-1. Download the latest version of [Twilight.dll](https://github.com/Mistakeyy/Twilight/releases)
-2. Start **RISK: Global Domination**.
-3. Open **ProcessHacker**.
-4. In ProcessHacker, search for **Risk.exe**.
-5. Right-click **Risk.exe**, then choose:  
-   **Miscellaneous → Inject DLL**
-6. Select **Twilight.dll**.
+1. Download the latest version of [Twilight.exe](https://github.com/Mistakeyy/Twilight/releases)
+1. Start **RISK: Global Domination**.
+2. Run Twilight.exe as Administrator.
+3. Click the Inject button.
 7. ## Press HOME to open the menu
 
 ## Note :
