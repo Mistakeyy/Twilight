@@ -68,8 +68,8 @@ Badge Spoofer:
 
 1. Download the latest version of [Twilight.exe](https://github.com/Mistakeyy/Twilight/releases)
 1. Start **RISK: Global Domination**.
-2. Run Twilight.exe as Administrator.
-3. Click the Inject button.
+2. Run **Twilight.exe** as Administrator.
+3. Click the **Inject** button.
 7. ## Press HOME to open the menu
 
 ## Note :
