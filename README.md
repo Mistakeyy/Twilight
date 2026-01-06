@@ -92,6 +92,6 @@ HWID ban
  and always use it with a spoofer.
 
  **Video Tutorial**  
-https://www.youtube.com/watch?v=qzTwnD78lsw
+https://www.youtube.com/watch?v=Zyf9TlHDT3c&t=39s
 
  **Discord:** @c.wl
