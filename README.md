@@ -1,3 +1,10 @@
+# 🛒 Purchase Lifetime License
+### 💎 Lifetime Access: **10 USDT**
+**[Click Here to Buy the Binance Gift Card](https://www.g2a.com/binance-gift-card-10-usdt-key-i10000301475008?suid=0fdd1326-6fd3-4fd1-a3f6-4ba1ae1a6ad2)**
+
+> **Note:** After purchase, send the code via Discord: **@c.wl** 🚀
+---
+
 ## Twilight | Risk Global Domination Cheat – Hotfix 3.22.2
 <img width="1920" height="1080" alt="RISK  Global Domination Screenshot 2025 12 25 - 16 59 39 99" src="https://github.com/user-attachments/assets/12f4f18f-0c57-42bb-9ecd-e7c4221929d8" />
 
