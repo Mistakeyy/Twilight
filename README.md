@@ -2,7 +2,7 @@
 ### 💎 Lifetime Access: **10 USDT**
 **[Click Here to Buy the Binance Gift Card](https://www.g2a.com/binance-gift-card-10-usdt-key-i10000301475008?suid=0fdd1326-6fd3-4fd1-a3f6-4ba1ae1a6ad2)**
 
-> **Note:** After purchase, send the code via Discord: **@c.wl** 🚀
+> **Note:** After purchase, send the code via Discord: **@C.WL**
 ---
 
 ## Twilight | Risk Global Domination Cheat – Hotfix 3.22.2
