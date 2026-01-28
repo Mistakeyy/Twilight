@@ -1,6 +1,6 @@
 # 🛒 Purchase Lifetime License
-### 💎 Lifetime Access: **10 USDT**
-**[Click Here to Buy the Binance Gift Card](https://www.g2a.com/binance-gift-card-10-usdt-key-i10000301475008?suid=0fdd1326-6fd3-4fd1-a3f6-4ba1ae1a6ad2)**
+### 💎 Lifetime Access: **5 USDT**
+**[Click Here to Buy the Binance Gift Card](https://www.g2a.com/binance-gift-card-5-usdt-key-i10000301475014?suid=d1907e63-d74f-406d-ae2b-0e5245434f9c)**
 
 > **Note:** After purchase, send the code via Discord: **@C.WL**
 ---
