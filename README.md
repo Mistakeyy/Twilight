@@ -3,10 +3,7 @@
 **[Click Here to Buy the Binance Gift Card](https://www.g2a.com/binance-gift-card-5-usdt-key-i10000301475014?suid=d1907e63-d74f-406d-ae2b-0e5245434f9c)**
 
 > **Note:** After purchase, send the code via Discord: **@C.WL**
-
-> **No Refunds**
-> All sales are final.
-
+---
 ## Twilight | Risk Global Domination Cheat – Hotfix 3.22.2
 <img width="1920" height="1080" alt="RISK  Global Domination Screenshot 2025 12 25 - 16 59 39 99" src="https://github.com/user-attachments/assets/12f4f18f-0c57-42bb-9ecd-e7c4221929d8" />
 
@@ -96,6 +93,9 @@ I will try to fix these issues and add more features soon.
 Account ban, and
 
 HWID ban
+
+> **No Refunds**
+> All sales are final.
 
  It is strongly recommended to use it on a secondary account
  and always use it with a spoofer.
