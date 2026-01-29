@@ -3,6 +3,7 @@
 **[Click Here to Buy the Binance Gift Card](https://www.g2a.com/binance-gift-card-5-usdt-key-i10000301475014?suid=d1907e63-d74f-406d-ae2b-0e5245434f9c)**
 
 > **Note:** After purchase, send the code via Discord: **@C.WL**
+
 > **No Refunds**
 > All sales are final.
 
