@@ -94,11 +94,11 @@ Account ban, and
 
 HWID ban
 
-> **No Refunds**
-> All sales are final.
-
  It is strongly recommended to use it on a secondary account
  and always use it with a spoofer.
+ 
+> **No Refunds**
+> All sales are final.
 
  **Video Tutorial**  
 https://www.youtube.com/watch?v=Zyf9TlHDT3c&t=39s
